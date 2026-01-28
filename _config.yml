@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiyuan (Julian) Su"
+title                    : "Chao Jiang"
 description              : "\"Everything that rises must converge.\""
-repository               : "zhiyuansu0326/zhiyuansu0326.github.io"
+repository               : "ChaoJiang52/ChaoJiang52.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiyuan (Julian) Su"
-  avatar           : "images/szy1.png"
-  bio              : "Gaoling School of Artificial Intelligence, Renmin University of China"
-  location         : "Beijing, China"
+  name             : "Chao Jiang (蒋超)"
+  avatar           : "images/jc.jpg"
+  bio              : "School of Computer Science, University of Birmingham"
+  location         : "Birmingham, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5T0sVTgAAAAJ&hl"
-  email            : "ayinor0713@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=BvrJCNAAAAAJ&hl"
+  email            : "cxj249@student.bham.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhiyuansu0326"
+  github           : "ChaoJiang52"
   google_plus      :
   keybase          : 
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0008-9117-7923"
+  orcid            : "https://orcid.org/0000-0001-5693-6463"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
