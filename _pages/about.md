@@ -88,7 +88,7 @@ redirect_from:
             University of Birmingham
           </a>,
           supervised by
-          <a href="https://www.birmingham.ac.uk/staff/profiles/computer-science/li-miqing" target="_blank">
+          <a href="https://sites.google.com/view/miqing-li/home" target="_blank">
             Dr. Miqing Li
           </a>
           (2022.09–present).
@@ -132,11 +132,19 @@ redirect_from:
     </div>
     <div class="news-item">
     <div class="news-date">January 2025</div>
-    <div class="news-content">Our work on multi-objectivising acquisition functions in Bayesian optimisation has been accepted by ACM Transactions on Evolutionary Learning and Optimization.</div>
+    <div class="news-content">
+        <a href="https://doi.org/10.1145/3716504" target="_blank">
+          <strong>Our work</strong>
+        </a> 
+        on multi-objectivising acquisition functions in Bayesian optimisation has been accepted by ACM Transactions on Evolutionary Learning and Optimization.</div>
     </div>
     <div class="news-item">
     <div class="news-date">December 2024</div>
-    <div class="news-content">Our work on batch Bayesian optimisation through a multi-objective approach has been accepted by AAAI'25!</div>
+    <div class="news-content">        
+        <a href="https://doi.org/10.1609/aaai.v39i25.34909" target="_blank">
+          <strong>Our work</strong>
+        </a> 
+        on batch Bayesian optimisation through a multi-objective approach has been accepted by AAAI'25!</div>
     </div>
     </div>
   </div>
@@ -150,20 +158,20 @@ redirect_from:
 
     <div class="paper-item">
       <div class="paper-image-container">
-        <img src="{{ '/images/IMPACTNet.png' | relative_url }}" alt="IMPACTNet Paper">
+        <img src="{{ '/images/TELO_MOEE.jpg' | relative_url }}" alt="IMPACTNet Paper">
       </div>
       <div class="paper-content">
         <h3 class="paper-title">
-          <a href="#" target="_blank">IMPACTNet: Unifying Auto-bidding in End-to-End Merged Auctions</a>
+          <a href="#" target="_blank">Multi-objectivising acquisition functions in Bayesian optimisation</a>
         </h3>
         <p class="paper-authors">
-          Yuhan Wang, Yuchao Ma, Liang Zhang, Ziyuan Wang, <strong>Zhiyuan Su</strong>, Qi Qi, Yafei Wang, Xu Li, Yuyao Liu, Pengjie Wang, Jian Xu, Bo Zheng
+          <strong>Chao Jiang</strong>, Miqing Li
         </p>
         <div class="paper-meta">
-          <span class="paper-tag conference">KDD 2026</span>
-          <span class="paper-tag">Automated Mechanism Design</span>
-          <span class="paper-tag">Auto-Bidding</span>
-          <span class="paper-tag">Externalities</span>
+          <span class="paper-tag conference">TELO</span>
+          <span class="paper-tag">Bayesian Optimisation</span>
+          <span class="paper-tag">Multi-Objectivisation</span>
+          <span class="paper-tag">Acquisition Function</span>
         </div>
       </div>
     </div>
