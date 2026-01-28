@@ -158,56 +158,83 @@ redirect_from:
 
     <div class="paper-item">
       <div class="paper-image-container">
-        <img src="{{ '/images/TELO_MOEE.jpg' | relative_url }}" alt="IMPACTNet Paper">
+        <img src="{{ '/images/TELO_MOEE.jpg' | relative_url }}" alt="MOEE Paper">
       </div>
       <div class="paper-content">
         <h3 class="paper-title">
-          <a href="#" target="_blank">Multi-objectivising acquisition functions in Bayesian optimisation</a>
+          <a href="https://doi.org/10.1145/3716504" target="_blank">Multi-objectivising acquisition functions in Bayesian optimisation</a>
         </h3>
         <p class="paper-authors">
           <strong>Chao Jiang</strong>, Miqing Li
         </p>
         <div class="paper-meta">
           <span class="paper-tag conference">TELO</span>
-          <span class="paper-tag">Bayesian Optimisation</span>
-          <span class="paper-tag">Multi-Objectivisation</span>
-          <span class="paper-tag">Acquisition Function</span>
+          <span class="paper-tag"><a href="https://github.com/ChaoJiang52/TELO-MOEE" target="_blank">CODE</a></span>
+          <!-- <span class="paper-tag">Multi-Objectivisation</span> -->
+          <!-- <span class="paper-tag">Acquisition Function</span> -->
         </div>
       </div>
     </div>
 
     <div class="paper-item">
       <div class="paper-image-container">
-        <img src="{{ '/images/SeRe.png' | relative_url }}" alt="SeRe Paper">
+        <img src="{{ '/images/AAAI_POEE.jpg' | relative_url }}" alt="POEE Paper">
       </div>
       <div class="paper-content">
         <h3 class="paper-title">
-          <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3737105" target="_blank">Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity</a>
+          <a href="https://doi.org/10.1609/aaai.v39i25.34909" target="_blank">Trading off quality and uncertainty through multi-objective optimisation in batch Bayesian optimisation</a>
         </h3>
-        <p class="paper-authors"><strong>Zhiyuan Su</strong>, Sunhao Dai, Xiao Zhang</p>
+        <p class="paper-authors"><strong>Chao Jiang</strong>, Miqing Li</p>
         <div class="paper-meta">
-          <span class="paper-tag conference">KDD 2025</span>
-          <span class="paper-tag">Neural Bandit</span>
-          <span class="paper-tag">Sequential Decision Making</span>
-          <span class="paper-tag">Continual Learning</span>
+          <span class="paper-tag conference">AAAI 2025</span>
+          <span class="paper-tag"><a href="https://github.com/ChaoJiang52/AAAI-POEE" target="_blank">CODE</a></span>
+          <!-- <span class="paper-tag">Sequential Decision Making</span> -->
+          <!-- <span class="paper-tag">Continual Learning</span> -->
         </div>
       </div>
     </div>
 
     <div class="paper-item">
       <div class="paper-image-container">
-        <img src="{{ '/images/TICNet.png' | relative_url }}" alt="TICNet Paper">
+        <img src="{{ '/images/pcDE.png' | relative_url }}" alt="pcDE-ASL Paper">
       </div>
       <div class="paper-content">
         <h3 class="paper-title">
-          <a href="https://dl.acm.org/doi/pdf/10.1145/3696410.3714779?casa_token=8lqAC8Liak8AAAAA:lbsi8gr5tQAQds4gSyTdM3a7Rl43lK1yXwjDzjOtcXOxydg_JQJfvJxQtUKGAPxbZNspu3OlGT5ZcQ" target="_blank">A Context-Aware Framework for Integrating Ad Auctions and Recommendations</a>
+          <a href="10.1109/JSEN.2021.3115471" target="_blank">Matching Sensor Ontologies with Multi-Context Similarity Measure and Parallel Compact Differential Evolution Algorithm</a>
         </h3>
-        <p class="paper-authors">Yuchao Ma, Weian Li, Yuejia Dou, <strong>Zhiyuan Su</strong>, Changyuan Yu, Qi Qi</p>
+        <p class="paper-authors">Xingsi Xue, <strong>Chao Jiang</strong></p>
         <div class="paper-meta">
-          <span class="paper-tag conference">WWW 2025</span>
-          <span class="paper-tag">Automated Mechanism Design</span>
-          <span class="paper-tag">Integrated Ad Auction</span>
-          <span class="paper-tag">Online Advertising</span>
+          <span class="paper-tag conference">IEEE Sensors Journal</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="paper-item">
+      <div class="paper-image-container">
+        <img src="{{ '/images/WWW.png' | relative_url }}" alt="WWW Paper">
+      </div>
+      <div class="paper-content">
+        <h3 class="paper-title">
+          <a href="https://doi.org/10.1145/3442442.3451138" target="_blank">Artificial neural network based sensor ontology matching technique</a>
+        </h3>
+        <p class="paper-authors">Xingsi Xue, <strong>Chao Jiang</strong>, Chaofan Yang, Hai Zhu, Cong Hu</p>
+        <div class="paper-meta">
+          <span class="paper-tag conference">WWW 2021</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="paper-item">
+      <div class="paper-image-container">
+        <img src="{{ '/images/BIBM.png' | relative_url }}" alt="BIBM Paper">
+      </div>
+      <div class="paper-content">
+        <h3 class="paper-title">
+          <a href="10.1109/BIBM49941.2020.9313345" target="_blank">Matching biomedical ontologies with long short-term memory networks</a>
+        </h3>
+        <p class="paper-authors"><strong>Chao Jiang</strong>, Xingsi Xue</p>
+        <div class="paper-meta">
+          <span class="paper-tag conference">BIBM 2020</span>
         </div>
       </div>
     </div>
