@@ -18,11 +18,11 @@ redirect_from:
 <!-- Hero Section -->
 <section id="home" class="hero-section">
   <div class="hero-content">
-    <img src="{{ '/images/szy.png' | relative_url }}" alt="Zhiyuan Su" class="hero-avatar">
-    <h1 class="hero-name">Zhiyuan (Julian) Su</h1>
-    <p class="hero-title">Senior Undergraduate</p>
-    <p class="hero-school">Gaoling School of Artificial Intelligence</p>
-    <p class="hero-university">Renmin University of China</p>
+    <img src="{{ '/images/jc.jpg' | relative_url }}" alt="Chao Jiang" class="hero-avatar">
+    <h1 class="hero-name">Chao Jiang (蒋超)</h1>
+    <p class="hero-title">Ph.D. Student</p>
+    <p class="hero-school">School of Computer Science</p>
+    <p class="hero-university">University of Birmingham</p>
     <div class="hero-links">
       <a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope"></i> Email</a>
       <a href="{{ site.author.googlescholar }}" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
@@ -33,7 +33,9 @@ redirect_from:
   </div>
 </section>
 
+
 <!-- About Section --> 
+<!--
 <section id="about" class="section">
   <h2 class="section-title"><i class="fas fa-user"></i> About Me</h2>
   <div class="card-grid">
@@ -50,7 +52,6 @@ redirect_from:
         <p>❗️<span style="color:red">I am actively seeking Ph.D. positions starting in Fall 2026. If you think my background is a good fit for you, please don't hesitate to contact me via <a href="zhiyuansurenminu@gmail.com" target="_blank">zhiyuansurenminu@gmail.com</a>!</span></p>
 </div>
 </div>
-
     <div class="card">
       <div class="card-header">
         <div class="card-icon"><i class="fas fa-flask"></i></div>
@@ -65,6 +66,45 @@ redirect_from:
     </div>
   </div>
 </section>
+--> 
+
+<!-- About Section --> 
+<section id="about" class="section">
+  <h2 class="section-title"><i class="fas fa-user"></i> About Me</h2>
+
+  <div class="card-grid">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-icon"><i class="fas fa-user"></i></div>
+        <div>
+          <h3 class="card-title">Introduction</h3>
+        </div>
+      </div>
+
+      <div class="card-content">
+        <p>
+          <strong>Chao Jiang</strong> is a <strong>Ph.D. student</strong> at the
+          <a href="https://www.birmingham.ac.uk/schools/computer-science" target="_blank">
+            University of Birmingham
+          </a>,
+          supervised by
+          <a href="https://www.birmingham.ac.uk/staff/profiles/computer-science/li-miqing" target="_blank">
+            Dr. Miqing Li
+          </a>
+          (2022.09–present).
+        </p>
+
+        <p>
+          His research interests include <strong>Artificial Intelligence</strong>,
+          <strong>Machine Learning</strong>, <strong>Optimisation</strong>
+          (Bayesian Optimisation and Evolutionary Algorithms), and
+          <strong>Search-Based Software Engineering</strong>.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <!-- News Section -->
 <section id="news" class="section">
