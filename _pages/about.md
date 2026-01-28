@@ -243,270 +243,254 @@ redirect_from:
 </section>
 
 
-[//]: # (<!-- Honors and Awards Section -->)
 
-[//]: # (<section id="honors" class="section">)
+<!-- Honors and Awards Section -->
 
-[//]: # (  <h2 class="section-title"><i class="fas fa-trophy"></i> Honors and Awards</h2>)
 
-[//]: # (  <div class="card">)
+<!-- 
 
-[//]: # (    <div class="card-content">)
+<section id="honors" class="section">
 
-[//]: # (      <div class="news-item">)
+  <h2 class="section-title"><i class="fas fa-trophy"></i> Honors and Awards</h2>
 
-[//]: # (        <div class="news-date">Nov 2025</div>)
+  <div class="card">
 
-[//]: # (        <div class="news-content">Qiushi Academic International Support Program <span class="highlight-red">[Highest Funding]</span></div>)
+    <div class="card-content">
 
-[//]: # (      </div>)
+      <div class="news-item">
 
-[//]: # (      <div class="news-item">)
+        <div class="news-date">Nov 2025</div>
 
-[//]: # (        <div class="news-date">Jul 2025</div>)
+        <div class="news-content">Qiushi Academic International Support Program <span class="highlight-red">[Highest Funding]</span></div>
 
-[//]: # (        <div class="news-content">SIGKDD-supported KDD 2025 Student Travel Award <span class="highlight-red">[1,000 USD]</span></div>)
+      </div>
 
-[//]: # (      </div>)
+      <div class="news-item">
 
-[//]: # (      <div class="news-item">)
+        <div class="news-date">Jul 2025</div>
 
-[//]: # (        <div class="news-date">Jun 2025</div>)
+        <div class="news-content">SIGKDD-supported KDD 2025 Student Travel Award <span class="highlight-red">[1,000 USD]</span></div>
 
-[//]: # (        <div class="news-content">Presidential Scholarship <span class="highlight-red">[40,000 CNY]</span></div>)
+      </div>
 
-[//]: # (      </div>)
+      <div class="news-item">
 
-[//]: # (      <!-- <div class="news-item">)
+        <div class="news-date">Jun 2025</div>
 
-[//]: # (        <div class="news-date">Apr 2025</div>)
+        <div class="news-content">Presidential Scholarship <span class="highlight-red">[40,000 CNY]</span></div>
 
-[//]: # (        <div class="news-content">Municipal Approval for Student Innovation Project <span class="highlight-red">[7,500 CNY]</span></div>)
+      </div>
 
-[//]: # (      </div> -->)
+      <div class="news-item">
 
-[//]: # (      <div class="news-item">)
+        <div class="news-date">Jan 2025</div>
 
-[//]: # (        <div class="news-date">Jan 2025</div>)
+        <div class="news-content">Mitacs Globalink Internship Scholarship <span class="highlight-red">[6,000 CAD]</span></div>
 
-[//]: # (        <div class="news-content">Mitacs Globalink Internship Scholarship <span class="highlight-red">[6,000 CAD]</span></div>)
+      </div>
 
-[//]: # (      </div>)
+      <div class="news-item">
 
-[//]: # (      <div class="news-item">)
+        <div class="news-date">Dec 2024</div>
 
-[//]: # (        <div class="news-date">Dec 2024</div>)
+        <div class="news-content"><span class="highlight-red">[National Second Prize]</span> 19th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works</div>
 
-[//]: # (        <div class="news-content"><span class="highlight-red">[National Second Prize]</span> 19th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works</div>)
+      </div>
 
-[//]: # (      </div>)
+    </div>
 
-[//]: # (      <!-- <div class="news-item">)
+  </div>
 
-[//]: # (        <div class="news-date">Oct 2024</div>)
+</section>
+ -->
 
-[//]: # (        <div class="news-content"><span class="highlight-red">[Provincial Second Prize]</span> Beijing Mathematical Contest in Modeling</div>)
 
-[//]: # (      </div> -->)
 
-[//]: # (      <!-- <div class="news-item">)
+<!-- Education Section -->
 
-[//]: # (        <div class="news-date">Oct 2024</div>)
+<!-- 
+<section id="education" class="section">
 
-[//]: # (        <div class="news-content">Second-class Academic Scholarship <span class="highlight-red">[3,000 CNY]</span></div>)
+  <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Education</h2>
 
-[//]: # (      </div> -->)
+  <div class="list-section">
 
-[//]: # (      <!-- <div class="news-item">)
+    <div class="list-item">
 
-[//]: # (        <div class="news-date">Apr 2024</div>)
+      <div class="list-item-logo">
 
-[//]: # (        <div class="news-content">Municipal Approval for Student Innovation Project <span class="highlight-red">[7,500 CNY]</span></div>)
+        <img src="{{ '/images/ucdavis_logo.png' | relative_url }}" alt="UC Davis">
 
-[//]: # (      </div> -->)
+      </div>
 
-[//]: # (    </div>)
+      <div class="list-item-content">
 
-[//]: # (  </div>)
+        <div class="list-item-date">Jan 2025 – Mar 2025</div>
 
-[//]: # (</section>)
-[//]: # ()
-[//]: # (<!-- Education Section -->)
+        <div class="list-item-title">Exchange, University of California, Davis</div>
 
-[//]: # (<section id="education" class="section">)
+        <div class="list-item-desc">Major: Mathematics & Statistics<br>Graduated with Academic Perfection</div>
 
-[//]: # (  <h2 class="section-title"><i class="fas fa-graduation-cap"></i> Education</h2>)
+      </div>
 
-[//]: # (  <div class="list-section">)
+    </div>
 
-[//]: # (    <div class="list-item">)
+    <div class="list-item">
 
-[//]: # (      <div class="list-item-logo">)
+      <div class="list-item-logo">
 
-[//]: # (        <img src="{{ '/images/ucdavis_logo.png' | relative_url }}" alt="UC Davis">)
+        <img src="{{ '/images/ruc_logo.png' | relative_url }}" alt="RUC">
 
-[//]: # (      </div>)
+      </div>
 
-[//]: # (      <div class="list-item-content">)
+      <div class="list-item-content">
 
-[//]: # (        <div class="list-item-date">Jan 2025 – Mar 2025</div>)
+        <div class="list-item-date">Sep 2022 – Present</div>
 
-[//]: # (        <div class="list-item-title">Exchange, University of California, Davis</div>)
+        <div class="list-item-title">Gaoling School of Artificial Intelligence, Renmin University of China</div>
 
-[//]: # (        <div class="list-item-desc">Major: Mathematics & Statistics<br>Graduated with Academic Perfection</div>)
+        <div class="list-item-desc">Bachelor of Engineering in Artificial Intelligence<br>Supervisors: <a href="https://gsai.ruc.edu.cn/qiqi" target="_blank">Dr. Qi Qi</a>, <a href="https://pinkfloyd1989.github.io/Xiao_Zhang/" target="_blank">Dr. Xiao Zhang</a></div>
 
-[//]: # (      </div>)
+      </div>
 
-[//]: # (    </div>)
+    </div>
 
-[//]: # (    <div class="list-item">)
+  </div>
 
-[//]: # (      <div class="list-item-logo">)
+</section>
+ -->
 
-[//]: # (        <img src="{{ '/images/ruc_logo.png' | relative_url }}" alt="RUC">)
 
-[//]: # (      </div>)
+<!-- Work Experience Section -->
 
-[//]: # (      <div class="list-item-content">)
+<!-- 
+<section id="experience" class="section">
 
-[//]: # (        <div class="list-item-date">Sep 2022 – Present</div>)
+  <h2 class="section-title"><i class="fas fa-briefcase"></i> Work Experiences</h2>
 
-[//]: # (        <div class="list-item-title">Gaoling School of Artificial Intelligence, Renmin University of China</div>)
+  <div class="list-section">
 
-[//]: # (        <div class="list-item-desc">Bachelor of Engineering in Artificial Intelligence<br>Supervisors: <a href="https://gsai.ruc.edu.cn/qiqi" target="_blank">Dr. Qi Qi</a>, <a href="https://pinkfloyd1989.github.io/Xiao_Zhang/" target="_blank">Dr. Xiao Zhang</a></div>)
+    <div class="list-item">
 
-[//]: # (      </div>)
+      <div class="list-item-logo">
 
-[//]: # (    </div>)
+        <img src="{{ '/images/dal_logo.png' | relative_url }}" alt="Dalhousie">
 
-[//]: # (  </div>)
+      </div>
 
-[//]: # (</section>)
-[//]: # ()
-[//]: # (<!-- Work Experience Section -->)
+      <div class="list-item-content">
 
-[//]: # (<section id="experience" class="section">)
+        <div class="list-item-date">Jul 2025 – Oct 2025 | Mitacs Research Intern </div>
 
-[//]: # (  <h2 class="section-title"><i class="fas fa-briefcase"></i> Work Experiences</h2>)
+        <div class="list-item-title">Faculty of Computer Science, Dalhousie University</div>
 
-[//]: # (  <div class="list-section">)
+        <div class="list-item-desc">
 
-[//]: # (    <div class="list-item">)
+          Visiting student at <a href="https://web.cs.dal.ca/~gaw/" target="_blank">Dalhousie Applied Machine Learning Research Lab (DAMLR)</a><br>
 
-[//]: # (      <div class="list-item-logo">)
+          Supervisor: <a href="https://wuga214.github.io/" target="_blank">Dr. Ga Wu</a>
 
-[//]: # (        <img src="{{ '/images/dal_logo.png' | relative_url }}" alt="Dalhousie">)
+        </div>
 
-[//]: # (      </div>)
+      </div>
 
-[//]: # (      <div class="list-item-content">)
+    </div>
 
-[//]: # (        <div class="list-item-date">Jul 2025 – Oct 2025 | Mitacs Research Intern </div>)
+    <div class="list-item">
 
-[//]: # (        <div class="list-item-title">Faculty of Computer Science, Dalhousie University</div>)
+      <div class="list-item-logo">
 
-[//]: # (        <div class="list-item-desc">)
+        <img src="{{ '/images/baidu_color.png' | relative_url }}" alt="Baidu">
 
-[//]: # (          Visiting student at <a href="https://web.cs.dal.ca/~gaw/" target="_blank">Dalhousie Applied Machine Learning Research Lab &#40;DAMLR&#41;</a><br>)
+      </div>
 
-[//]: # (          Supervisor: <a href="https://wuga214.github.io/" target="_blank">Dr. Ga Wu</a>)
+      <div class="list-item-content">
 
-[//]: # (        </div>)
+        <div class="list-item-date">May 2024 – Sep 2024 | Summer Intern</div>
 
-[//]: # (      </div>)
+        <div class="list-item-title">Baidu Inc.</div>
 
-[//]: # (    </div>)
+        <div class="list-item-desc">Pinecone Talent Elite Project</div>
 
-[//]: # (    <div class="list-item">)
+      </div>
 
-[//]: # (      <div class="list-item-logo">)
+    </div>
 
-[//]: # (        <img src="{{ '/images/baidu_color.png' | relative_url }}" alt="Baidu">)
+  </div>
+</section>
+ -->
 
-[//]: # (      </div>)
+<!-- Services Section -->
 
-[//]: # (      <div class="list-item-content">)
+<!-- 
+<section id="services" class="section">
 
-[//]: # (        <div class="list-item-date">May 2024 – Sep 2024 | Summer Intern</div>)
+  <h2 class="section-title"><i class="fas fa-handshake"></i> Services</h2>
 
-[//]: # (        <div class="list-item-title">Baidu Inc.</div>)
+  <div class="card-grid">
 
-[//]: # (        <div class="list-item-desc">Pinecone Talent Elite Project</div>)
+    <div class="card">
 
-[//]: # (      </div>)
+      <div class="card-header">
 
-[//]: # (    </div>)
+        <div class="card-icon"><i class="fas fa-gavel"></i></div>
 
-[//]: # (  </div>)
+        <div>
 
-[//]: # (</section>)
-[//]: # ()
-[//]: # (<!-- Services Section -->)
+          <h3 class="card-title">Reviewer</h3>
 
-[//]: # (<section id="services" class="section">)
+        </div>
 
-[//]: # (  <h2 class="section-title"><i class="fas fa-handshake"></i> Services</h2>)
+      </div>
 
-[//]: # (  <div class="card-grid">)
+      <div class="card-content">
 
-[//]: # (    <div class="card">)
+        <p><strong>Reviewer</strong>, KDD 2025, WWW 2025.</p>
 
-[//]: # (      <div class="card-header">)
+      </div>
 
-[//]: # (        <div class="card-icon"><i class="fas fa-gavel"></i></div>)
+    </div>
 
-[//]: # (        <div>)
+  </div>
 
-[//]: # (          <h3 class="card-title">Reviewer</h3>)
+</section>
+ -->
 
-[//]: # (        </div>)
 
-[//]: # (      </div>)
+<!-- Beyond Academics Section -->
 
-[//]: # (      <div class="card-content">)
+<!-- 
+<section id="interests" class="section">
 
-[//]: # (        <p><strong>Reviewer</strong>, KDD 2025, WWW 2025.</p>)
+  <h2 class="section-title"><i class="fas fa-palette"></i> Beyond Academics</h2>
 
-[//]: # (      </div>)
+  <div class="card-grid">
 
-[//]: # (    </div>)
+    <div class="card">
 
-[//]: # (  </div>)
+      <div class="card-header">
 
-[//]: # (</section>)
-[//]: # ()
-[//]: # (<!-- Beyond Academics Section -->)
+        <div class="card-icon"><i class="fas fa-music"></i></div>
 
-[//]: # (<section id="interests" class="section">)
+        <div>
 
-[//]: # (  <h2 class="section-title"><i class="fas fa-palette"></i> Beyond Academics</h2>)
+          <h3 class="card-title">Music & Arts</h3>
 
-[//]: # (  <div class="card-grid">)
+        </div>
 
-[//]: # (    <div class="card">)
+      </div>
 
-[//]: # (      <div class="card-header">)
+      <div class="card-content">
 
-[//]: # (        <div class="card-icon"><i class="fas fa-music"></i></div>)
+        <p>I love <strong>music, literature, travel and badminton</strong>. I am a <strong>campus singer</strong> at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC.</p>
 
-[//]: # (        <div>)
+        <p>I am also a <strong>musician</strong> at <strong>NetEase Cloud Music</strong>, and my stage name is <a href="http://music.163.com/#/artist?id=36180214" target="_blank" style="color: var(--ruc-red);">Ayinor</a>.</p>
 
-[//]: # (          <h3 class="card-title">Music & Arts</h3>)
+      </div>
 
-[//]: # (        </div>)
+    </div>
 
-[//]: # (      </div>)
+</div>
 
-[//]: # (      <div class="card-content">)
-
-[//]: # (        <p>I love <strong>music, literature, travel and badminton</strong>. I am a <strong>campus singer</strong> at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC.</p>)
-
-[//]: # (        <p>I am also a <strong>musician</strong> at <strong>NetEase Cloud Music</strong>, and my stage name is <a href="http://music.163.com/#/artist?id=36180214" target="_blank" style="color: var&#40;--ruc-red&#41;;">Ayinor</a>.</p>)
-
-[//]: # (      </div>)
-
-[//]: # (    </div>)
-
-[//]: # (</div>)
-
-[//]: # (</section>)
+</section>
+ -->
