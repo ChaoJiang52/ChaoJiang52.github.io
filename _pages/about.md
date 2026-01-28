@@ -243,6 +243,44 @@ redirect_from:
 </section>
 
 
+<!-- Teaching Associate Section -->
+
+<section id="teaching" class="section">
+  <h2 class="section-title"><i class="fas fa-chalkboard-teacher"></i> Teaching Associate</h2>
+
+  <div class="card">
+    <div class="card-content">
+
+      <div class="news-item">
+        <div class="news-date">Autumn 2023, Autumn 2025</div>
+        <div class="news-content"><strong>Algorithms for Data Science</strong></div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-date">Autumn 2023, Autumn 2024</div>
+        <div class="news-content"><strong>Programming for Data Science / AI Programming</strong></div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-date">Spring 2023, Spring 2024, Spring 2025</div>
+        <div class="news-content"><strong>Artificial Intelligence 2</strong></div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-date">Spring 2023</div>
+        <div class="news-content"><strong>Artificial Intelligence 1 &amp; Artificial Intelligence and Machine Learning</strong></div>
+      </div>
+
+      <div class="news-item">
+        <div class="news-date">Autumn 2022</div>
+        <div class="news-content"><strong>Object-Oriented Programming &amp; Software Workshop 1</strong></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
 
 <!-- Honors and Awards Section -->
 
