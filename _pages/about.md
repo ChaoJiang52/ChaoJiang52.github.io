@@ -153,7 +153,7 @@ redirect_from:
 
 <!-- Publications Section -->
 <section id="publications" class="section">
-  <h2 class="section-title"><i class="fas fa-file-alt"></i> Publications</h2>
+  <h2 class="section-title"><i class="fas fa-file-alt"></i> Selected Publications</h2>
   <div class="paper-list">
 
     <div class="paper-item">
