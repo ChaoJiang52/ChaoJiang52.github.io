@@ -592,15 +592,17 @@ a {
 .news-date {
   color: var(--ruc-red);
   font-weight: 600;
-  min-width: 110px;
+  width: 130px;        /* 固定列宽：关键 */
+  flex: 0 0 130px;     /* 不允许被压缩/拉伸：关键 */
   font-size: 0.85rem;
   font-family: var(--font-accent);
-  /* 【新增：居中】 */
+
   display: flex;
   align-items: center;     /* 垂直居中 */
   justify-content: center; /* 水平居中 */
   text-align: center;
 }
+
 
 .news-content {
   flex: 1;
