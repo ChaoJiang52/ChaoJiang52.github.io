@@ -107,21 +107,22 @@ redirect_from:
 
 
 <!-- News Section -->
+
 <section id="news" class="section">
   <h2 class="section-title"><i class="fas fa-newspaper"></i> News</h2>
   <div class="card">
     <div class="card-content">
       <div class="news-item">
-        <div class="news-date">Nov 24, 2025</div>
-        <div class="news-content">IMPACTNet was accepted by <strong>KDD 2026 Research Track</strong>. Congratulations to Yuhan!</div>
+        <div class="news-date">November 2025</div>
+        <div class="news-content">Physically attended MLA 2025 conference at Nanjing, China.</div>
       </div>
       <div class="news-item">
-        <div class="news-date">Jul 08, 2025</div>
-        <div class="news-content">Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!</div>
+        <div class="news-date">January 2025</div>
+        <div class="news-content">Our work on multi-objectivising acquisition functions in Bayesian optimisation has been accepted by ACM Transactions on Evolutionary Learning and Optimization.</div>
       </div>
       <!-- <div class="news-item">
-        <div class="news-date">Jun 30, 2025</div>
-        <div class="news-content">Received the presidential scholarship of <strong>40,000 CNY</strong> for being an outstanding exchange student at UC Davis.</div>
+        <div class="news-date">December 2024</div>
+        <div class="news-content">Our work on batch Bayesian optimisation through a multi-objective approach has been accepted by AAAI'25!</div>
       </div> -->
       <div class="news-item">
         <div class="news-date">May 15, 2025</div>
@@ -142,6 +143,7 @@ redirect_from:
     </div>
   </div>
 </section>
+
 
 <!-- Publications Section -->
 <section id="publications" class="section">
