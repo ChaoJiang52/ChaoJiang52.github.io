@@ -47,11 +47,12 @@ layout: compress
     </main>
 
     <!-- 页脚 -->
-    <footer class="site-footer">
-      <div class="footer-content">
-        <p>&copy; 2025 Zhiyuan Su. All rights reserved.</p>
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p>© {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
     </div>
-    </footer>
+  </footer>
+
 
     {% include scripts.html %}
     <script src="{{ '/assets/js/modern-homepage.js' | relative_url }}"></script>
