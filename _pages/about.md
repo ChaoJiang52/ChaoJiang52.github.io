@@ -112,34 +112,32 @@ redirect_from:
   <h2 class="section-title"><i class="fas fa-newspaper"></i> News</h2>
   <div class="card">
     <div class="card-content">
-      <div class="news-item">
-        <div class="news-date">November 2025</div>
-        <div class="news-content">Physically attended MLA 2025 conference at Nanjing, China.</div>
+    <div class="news-item">
+      <div class="news-date">November 2025</div>
+      <div class="news-content">
+        Physically attended 
+        <a href="https://aiia.seu.edu.cn/mla25/" target="_blank"><strong>MLA 2025</strong></a>
+        conference at Nanjing, China.
       </div>
-      <div class="news-item">
-        <div class="news-date">January 2025</div>
-        <div class="news-content">Our work on multi-objectivising acquisition functions in Bayesian optimisation has been accepted by ACM Transactions on Evolutionary Learning and Optimization.</div>
+    </div>
+    <div class="news-item">
+      <div class="news-date">July 2025</div>
+      <div class="news-content">
+        Physically attended 
+        <a href="https://gecco-2025.sigevo.org/HomePage" target="_blank">
+          <strong>GECCO 2025</strong>
+        </a>
+        conference at Malaga, Spain.
       </div>
-      <!-- <div class="news-item">
-        <div class="news-date">December 2024</div>
-        <div class="news-content">Our work on batch Bayesian optimisation through a multi-objective approach has been accepted by AAAI'25!</div>
-      </div> -->
-      <div class="news-item">
-        <div class="news-date">May 15, 2025</div>
-        <div class="news-content">A paper about clustering of neural bandits was accepted by <strong>KDD 2025 Research Track</strong>. Congratulations to myself on my <strong>first first-author paper</strong>!</div>
-      </div>
-      <!-- <div class="news-item">
-        <div class="news-date">Mar 25, 2025</div>
-        <div class="news-content">Completed Global Study Program at UC Davis and achieved <strong>Academic Perfection</strong>.</div>
-      </div> -->
-      <div class="news-item">
-        <div class="news-date">Feb 03, 2025</div>
-        <div class="news-content">A paper about integrating ad auctions and recommendations was accepted by <strong>WWW 2025</strong>.</div>
-      </div>
-      <!-- <div class="news-item">
-        <div class="news-date">Dec 10, 2024</div>
-        <div class="news-content">Admitted to the Mitacs Globalink Research Internship <strong>full-scholarship</strong> summer research program.</div>
-      </div> -->
+    </div>
+    <div class="news-item">
+    <div class="news-date">January 2025</div>
+    <div class="news-content">Our work on multi-objectivising acquisition functions in Bayesian optimisation has been accepted by ACM Transactions on Evolutionary Learning and Optimization.</div>
+    </div>
+    <div class="news-item">
+    <div class="news-date">December 2024</div>
+    <div class="news-content">Our work on batch Bayesian optimisation through a multi-objective approach has been accepted by AAAI'25!</div>
+    </div>
     </div>
   </div>
 </section>
