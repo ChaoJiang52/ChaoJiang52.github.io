@@ -76,9 +76,6 @@ redirect_from:
     <div class="card">
       <div class="card-header">
         <div class="card-icon"><i class="fas fa-user"></i></div>
-        <div>
-          <h3 class="card-title">Introduction</h3>
-        </div>
       </div>
 
       <div class="card-content">
