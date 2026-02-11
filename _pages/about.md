@@ -89,7 +89,7 @@ redirect_from:
           </a>,
           supervised by
           <a href="https://sites.google.com/view/miqing-li/home" target="_blank">
-            Dr. Miqing Li
+            Prof. Miqing Li
           </a>
           (2022.09–present).
         </p>
