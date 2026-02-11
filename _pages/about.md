@@ -194,6 +194,7 @@ redirect_from:
       </div>
     </div>
 
+<!-- 
     <div class="paper-item">
       <div class="paper-image-container">
         <img src="{{ '/images/pcDE.png' | relative_url }}" alt="pcDE-ASL Paper">
@@ -238,6 +239,7 @@ redirect_from:
         </div>
       </div>
     </div>
+ -->
 
   </div>
 </section>
