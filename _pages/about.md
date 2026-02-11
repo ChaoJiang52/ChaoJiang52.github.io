@@ -153,7 +153,7 @@ redirect_from:
 
 <!-- Publications Section -->
 <section id="publications" class="section">
-  <h2 class="section-title"><i class="fas fa-file-alt"></i> Selected Publications</h2>
+  <h2 class="section-title"><i class="fas fa-file-alt"></i>Publications (Selected)</h2>
   <div class="paper-list">
 
     <div class="paper-item">
@@ -248,10 +248,15 @@ redirect_from:
 <!-- Teaching Associate Section -->
 
 <section id="teaching" class="section">
-  <h2 class="section-title"><i class="fas fa-chalkboard-teacher"></i> Teaching Associate</h2>
+  <h2 class="section-title"><i class="fas fa-chalkboard-teacher"></i>Teaching Experience (University of Birmingham)</h2>
 
   <div class="card">
     <div class="card-content">
+
+      <div class="news-item">
+        <div class="news-date">Spring 2026</div>
+        <div class="news-content"><strong>Evolutionary Computation</strong></div>
+      </div>
 
       <div class="news-item">
         <div class="news-date">Autumn 2023, Autumn 2025</div>
