@@ -107,6 +107,15 @@ redirect_from:
   <div class="card">
     <div class="card-content">
     <div class="news-item">
+      <div class="news-date">March 2026</div>
+      <div class="news-content">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3803859" target="_blank">
+          <strong>Our work</strong>
+        </a>
+        on studying the connection between fitness landscapes and domain knowledge in software configuration tuning has been accepted by ACM Transactions on Software Engineering and Methodology.
+      </div>
+    </div>
+    <div class="news-item">
       <div class="news-date">November 2025</div>
       <div class="news-content">
         Physically attended 
@@ -149,6 +158,25 @@ redirect_from:
 <section id="publications" class="section">
   <h2 class="section-title"><i class="fas fa-file-alt"></i>Publications (Selected)</h2>
   <div class="paper-list">
+
+    <div class="paper-item">
+      <div class="paper-image-container">
+        <img src="{{ '/images/TOSEM_Domland.png' | relative_url }}" alt="TOSEM DomLand Paper">
+      </div>
+      <div class="paper-content">
+        <h3 class="paper-title">
+          <a href="https://dl.acm.org/doi/abs/10.1145/3803859" target="_blank">
+            Revealing Domain-Spatiality Patterns for Configuration Tuning: Domain Knowledge Meets Fitness Landscapes
+          </a>
+        </h3>
+        <p class="paper-authors">
+          Yulong Ye, Hongyuan Liang, <strong>Chao Jiang</strong>, Miqing Li, Tao Chen
+        </p>
+        <div class="paper-meta">
+          <span class="paper-tag conference">TOSEM</span>
+        </div>
+      </div>
+    </div>
 
     <div class="paper-item">
       <div class="paper-image-container">
