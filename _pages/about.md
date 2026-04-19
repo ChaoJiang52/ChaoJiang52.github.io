@@ -165,7 +165,7 @@ redirect_from:
       <div class="paper-content">
         <h3 class="paper-title">
           <a href="https://arxiv.org/pdf/2604.09417" target="_blank">
-            Do We Really Need to Approach the Entire Pareto Front in Many-Objective Bayesian Optimisation?
+            Do we really need to approach the entire Pareto front in many-objective Bayesian optimisation?
           </a>
         </h3>
         <p class="paper-authors">
@@ -195,7 +195,7 @@ redirect_from:
       <div class="paper-content">
         <h3 class="paper-title">
           <a href="https://dl.acm.org/doi/abs/10.1145/3803859" target="_blank">
-            Revealing Domain-Spatiality Patterns for Configuration Tuning: Domain Knowledge Meets Fitness Landscapes
+            Revealing domain-spatiality patterns for configuration tuning: Domain knowledge meets fitness landscapes
           </a>
         </h3>
         <p class="paper-authors">
