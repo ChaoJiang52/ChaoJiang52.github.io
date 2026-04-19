@@ -153,6 +153,35 @@ redirect_from:
   </div>
 </section>
 
+<!-- Preprints Section -->
+<section id="preprints" class="section">
+  <h2 class="section-title"><i class="fas fa-file-alt"></i>Preprints</h2>
+  <div class="paper-list">
+
+    <div class="paper-item">
+      <div class="paper-image-container">
+        <img src="{{ '/images/SPMO.png' | relative_url }}" alt="Many-Objective Bayesian Optimisation Paper">
+      </div>
+      <div class="paper-content">
+        <h3 class="paper-title">
+          <a href="https://arxiv.org/pdf/2604.09417" target="_blank">
+            Do We Really Need to Approach the Entire Pareto Front in Many-Objective Bayesian Optimisation?
+          </a>
+        </h3>
+        <p class="paper-authors">
+          <strong>Chao Jiang</strong>, Jingyu Huang, Miqing Li
+        </p>
+        <div class="paper-meta">
+          <span class="paper-tag conference">arXiv</span>
+          <span class="paper-tag">
+            <a href="https://arxiv.org/pdf/2604.09417" target="_blank">PDF</a>
+          </span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
 
 <!-- Publications Section -->
 <section id="publications" class="section">
