@@ -106,6 +106,17 @@ redirect_from:
   <h2 class="section-title"><i class="fas fa-newspaper"></i> News</h2>
   <div class="card">
     <div class="card-content">
+
+      <div class="news-item">
+        <div class="news-date">June 2026</div>
+        <div class="news-content">
+          <a href="https://arxiv.org/pdf/2604.09417" target="_blank">
+            <strong>Our work</strong>
+          </a>
+          on showing that it is not necessary to approximate the entire Pareto front in many-objective Bayesian optimisation has been accepted by Transactions of Machine Learning Research.
+        </div>
+      </div>
+
     <div class="news-item">
       <div class="news-date">March 2026</div>
       <div class="news-content">
@@ -115,6 +126,7 @@ redirect_from:
         on studying the connection between fitness landscapes and domain knowledge in software configuration tuning has been accepted by ACM Transactions on Software Engineering and Methodology.
       </div>
     </div>
+
     <div class="news-item">
       <div class="news-date">November 2025</div>
       <div class="news-content">
@@ -123,6 +135,7 @@ redirect_from:
         conference at Nanjing, China.
       </div>
     </div>
+
     <div class="news-item">
       <div class="news-date">July 2025</div>
       <div class="news-content">
@@ -133,6 +146,7 @@ redirect_from:
         conference at Malaga, Spain.
       </div>
     </div>
+
     <div class="news-item">
     <div class="news-date">January 2025</div>
     <div class="news-content">
@@ -141,6 +155,7 @@ redirect_from:
         </a> 
         on multi-objectivising acquisition functions in Bayesian optimisation has been accepted by ACM Transactions on Evolutionary Learning and Optimization.</div>
     </div>
+
     <div class="news-item">
     <div class="news-date">December 2024</div>
     <div class="news-content">        
@@ -153,6 +168,7 @@ redirect_from:
   </div>
 </section>
 
+<!--
 <!-- Preprints Section -->
 <section id="preprints" class="section">
   <h2 class="section-title"><i class="fas fa-file-alt"></i>Preprints</h2>
@@ -182,11 +198,35 @@ redirect_from:
 
   </div>
 </section>
+-->
+
 
 <!-- Publications Section -->
 <section id="publications" class="section">
   <h2 class="section-title"><i class="fas fa-file-alt"></i>Publications (Selected)</h2>
   <div class="paper-list">
+
+    <div class="paper-item">
+      <div class="paper-image-container">
+        <img src="{{ '/images/SPMO.png' | relative_url }}" alt="Many-Objective Bayesian Optimisation Paper">
+      </div>
+      <div class="paper-content">
+        <h3 class="paper-title">
+          <a href="https://arxiv.org/pdf/2604.09417" target="_blank">
+            Do we really need to approach the entire Pareto front in many-objective Bayesian optimisation?
+          </a>
+        </h3>
+        <p class="paper-authors">
+          <strong>Chao Jiang</strong>, Jingyu Huang, Miqing Li
+        </p>
+        <div class="paper-meta">
+          <span class="paper-tag conference">TMLR</span>
+          <span class="paper-tag">
+            <a href="https://arxiv.org/pdf/2604.09417" target="_blank">PDF</a>
+          </span>
+        </div>
+      </div>
+    </div>
 
     <div class="paper-item">
       <div class="paper-image-container">
