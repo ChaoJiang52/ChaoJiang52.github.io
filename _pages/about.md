@@ -168,8 +168,9 @@ redirect_from:
   </div>
 </section>
 
-<!--
+
 <!-- Preprints Section -->
+<!--
 <section id="preprints" class="section">
   <h2 class="section-title"><i class="fas fa-file-alt"></i>Preprints</h2>
   <div class="paper-list">
